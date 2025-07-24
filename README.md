@@ -1,4 +1,4 @@
-# Insights AI - An AI-Powered PDF Document Question-Answering System 🤖
+# Insights AI - Document Question-Answering System 
 
 A sophisticated document analysis system that uses RAG (Retrieval-Augmented Generation) to enable intelligent question-answering from PDF documents. Built with Streamlit and powered by the Deepseek-R1 model.
 
